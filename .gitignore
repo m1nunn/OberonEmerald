@@ -1,4 +1,15 @@
-*.exe
+*.gba
+*.elf
+*.map
+build/
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+*.sav
+*.ss0
+*.ss1*.exe
 *.o
 *.i
 *.elf
